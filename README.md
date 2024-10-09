@@ -4,8 +4,8 @@
 
 
 
-This project is a tool that analyzes user tweets to determine their emotional tone
 
-## Example Input
 
-(./detect.png)
+## Example output
+
+![Superhero Name Generator Input](./detect.png)
