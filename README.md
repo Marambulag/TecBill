@@ -23,7 +23,7 @@ TecBill is a vision-based billing system that uses YOLOv8-nano to detect product
 ![Superhero Name Generator Input](./img/Databaase.png)
 💡 TecBill automates checkout with vision — fast, simple, and contactless.
 
-## Example output.
+## Example output UI.
 
 ![Superhero Name Generator Input](./img/UX.png)
 
