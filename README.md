@@ -1,4 +1,4 @@
-💳 TecBill — Vision Billing System
+💳 TecBill — Vision Billing System.
 
 TecBill is a vision-based billing system that uses YOLOv8-nano to detect products and generate bills automatically — no barcodes needed.
 
