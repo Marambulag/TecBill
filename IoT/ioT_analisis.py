@@ -34,7 +34,7 @@ def get_db_connection():
         return None
 
 # Configuración de la API de OpenAI
-api_key = "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"
+api_key = ""
 openai.api_key = api_key
 
 # Función para enviar correos electrónicos
@@ -209,4 +209,5 @@ def enviar_correo_endpoint():
 #realizar_analisis()
 if __name__ == '__main__':
     #app.run(debug=True)
+
     app.run(host='0.0.0.0', port=5000)
